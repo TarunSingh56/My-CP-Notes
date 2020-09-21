@@ -1,0 +1,15 @@
+semantic-ui (for css)
+
+faker js(for fake details)
+
+gatsby(beautiful interfaces)
+
+socket.io
+
+charts.js
+
+material ui
+
+framer motion
+
+
